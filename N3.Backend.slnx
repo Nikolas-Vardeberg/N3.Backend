@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="N3.Backend.API/N3.Backend.API.csproj" />
+  <Project Path="N3.Backend.Application/N3.Backend.Application.csproj" />
+  <Project Path="N3.Backend.Domain/N3.Backend.Domain.csproj" />
+  <Project Path="N3.Backend.Infrastructure/N3.Backend.Infrastructure.csproj" />
+</Solution>
